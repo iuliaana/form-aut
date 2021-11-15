@@ -1,0 +1,39 @@
+body{
+ 
+}
+a{
+  color: #fff;
+ }
+a:hover{
+}
+.container{
+ 
+}
+.container img{
+ 
+}
+
+input[type="text"],input[type="password"]{
+ 
+}
+.dws-input input:hover{
+}
+.dws-submit {
+ 
+}
+.dws-submit:hover{
+}
+
+.dws-input::before{
+ 
+}
+.dws-input:nth-child(2)::before{
+}
+.dws-input:hover::before{
+}
+.dws-social i{
+}
+.dws-social i:hover{
+}
+
+
